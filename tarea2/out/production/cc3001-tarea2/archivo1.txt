@@ -1,0 +1,4 @@
+El archivo 2 dice:
+<<<archivo2.txt>>>, y el archivo 3
+dice: <<<archivo3.txt>>>
+aqui termina el archivo 1.
